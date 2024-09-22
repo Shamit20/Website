@@ -15,6 +15,7 @@
 
   .home-article {
     flex-direction: column;
+    justify-content: center;
   }
 
   .home-article-img {
