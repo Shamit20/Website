@@ -25,7 +25,7 @@
       if (url) {
         window.location.href = url; // Redirect to the found URL
       } else {
-        alert("No match foundr.");
+        alert("No match found.");
       }
     });
   });
